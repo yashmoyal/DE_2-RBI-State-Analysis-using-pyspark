@@ -2,7 +2,7 @@
 
 # DE_2-RBI-State-Analysis-using-pyspark
 
-## This Project does basic data analysis on dataset using pyspark.
+## This Project does data analysis on dataset using pyspark.
 
 ## Tools Used:
   ### 1. pyspark
